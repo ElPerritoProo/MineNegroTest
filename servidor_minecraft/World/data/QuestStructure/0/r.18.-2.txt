@@ -1,0 +1,2 @@
+StonePlantMound4,9222,9229,-1416,-1409
+ClayWaterMound,9223,9230,-1301,-1293

@@ -1,0 +1,66 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.147.18.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724490753144
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724490797455
+  login: 1724490255624
+  kits:
+    firework: 1724369560461
+    tools: 1724380143005
+money: '0'
+last-account-name: ALIASJJ16
+lastlocation:
+  world: ab5de443-b9a5-4578-9508-08f44eee077f
+  world-name: World
+  x: 8317.300000011921
+  y: 69.0
+  z: -7878.433083244381
+  yaw: -266.84893798828125
+  pitch: 18.617380142211914
+logoutlocation:
+  world: ab5de443-b9a5-4578-9508-08f44eee077f
+  world-name: World
+  x: 4801.8131757993815
+  y: 66.0
+  z: -8903.098049960876
+  yaw: 0.06672891974449158
+  pitch: 0.06672891974449158
+homes:
+  home:
+    world: ab5de443-b9a5-4578-9508-08f44eee077f
+    world-name: World
+    x: -132.5
+    y: 64.0
+    z: 219.30930379903987
+    yaw: 0.0
+    pitch: 0.0
+  pepas:
+    world: b12122be-d33f-4926-a220-f026718a8d8b
+    world-name: World
+    x: -117.95607763577381
+    y: 64.0
+    z: 242.85885240158956
+    yaw: 176.23114013671875
+    pitch: 16.88241195678711
+  papas:
+    world: b12122be-d33f-4926-a220-f026718a8d8b
+    world-name: World
+    x: -121.40651311544823
+    y: 64.0
+    z: 229.11732574978208
+    yaw: 137.92872619628906
+    pitch: 19.48483657836914

@@ -1,0 +1,11 @@
+StonePlantMound3,-4701,-4690,10078,10087
+MysticalTree1,-4709,-4696,9951,9962
+MysticalTree,-4687,-4671,10094,10109
+ClayWaterMound1,-4673,-4662,9925,9935
+ShrineSmallFire,-4947,-4937,10158,10168
+UndergroundCultChamber,-4716,-4684,9873,9915
+StoneBoulder,-5066,-5057,10060,10069
+StonePlantMound,-5069,-5064,10118,10123
+ShrineSmallAir,-5086,-5078,10210,10218
+ClayWaterMound,-5112,-5104,10075,10082
+BlazeSpawnerCrystal,-5088,-5082,10047,10053

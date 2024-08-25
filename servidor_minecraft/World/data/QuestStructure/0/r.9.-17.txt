@@ -1,0 +1,11 @@
+StonePlantMound3,4796,4807,-8899,-8890
+StonePlantBoulder,4789,4799,-8818,-8808
+StoneLeafMound,4736,4745,-8987,-8980
+StonePlantMound2,4763,4776,-8804,-8792
+StonePlantMound3,4928,4939,-8863,-8854
+MysticalTree1,4776,4789,-8779,-8768
+StonePlantMound4,4943,4950,-8861,-8854
+ShrineSmallFire,4959,4969,-8910,-8900
+StonePlantMound3,4691,4700,-8785,-8774
+StoneLeafMound,4910,4919,-8788,-8781
+StonePlantMound4,4697,4704,-8755,-8748

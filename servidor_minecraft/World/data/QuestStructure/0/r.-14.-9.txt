@@ -1,0 +1,7 @@
+DinosaurSkull,-7512,-7501,-4663,-4644
+ShrineSmallFire,-7403,-7393,-4630,-4620
+StoneIceBoulder,-7400,-7390,-4631,-4622
+StoneIceBoulder2,-7406,-7397,-4692,-4683
+BrickHenge,-7423,-7407,-4723,-4707
+StoneIceBoulder2,-7392,-7383,-4760,-4751
+StoneIceBoulder2,-7359,-7350,-4719,-4710

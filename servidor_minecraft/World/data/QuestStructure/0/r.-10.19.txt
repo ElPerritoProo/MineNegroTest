@@ -1,0 +1,11 @@
+StonePlantMound4,-5133,-5126,10145,10152
+StonePlantMound,-5154,-5149,10160,10165
+SmallFortRuinsJapanese,-5228,-5182,10104,10150
+StonePlantMound4,-5331,-5324,10135,10142
+MysticalTree,-5383,-5367,10187,10202
+StoneBoulder,-5379,-5370,10208,10217
+UndergroundCultChamber,-5461,-5419,10146,10178
+StoneBoulder,-5399,-5390,10123,10132
+StonePlantMound,-5359,-5354,10092,10097
+StonePlantMound,-5226,-5221,10074,10079
+StoneLeafMound,-5191,-5182,10065,10072

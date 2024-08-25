@@ -1,0 +1,3 @@
+DinosaurSkull,9021,9040,-1596,-1585
+StonePlantMound3,8904,8913,-1608,-1597
+StonePlantMound3,8853,8864,-1605,-1596

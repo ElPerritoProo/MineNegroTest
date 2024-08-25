@@ -1,0 +1,3 @@
+DinosaurSkeleton,-7480,-7471,-4623,-4577
+StoneIceBoulder2,-7382,-7373,-4566,-4557
+StoneIceBoulder,-7380,-7371,-4525,-4515

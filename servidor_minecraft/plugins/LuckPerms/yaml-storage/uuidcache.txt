@@ -1,0 +1,2 @@
+# LuckPerms UUID lookup cache
+a897a5a9-c17b-3542-abcb-381e9534898b:ALIASJJ16

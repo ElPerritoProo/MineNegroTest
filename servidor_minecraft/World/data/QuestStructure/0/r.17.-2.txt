@@ -1,0 +1,7 @@
+StoneBoulder,9041,9050,-1399,-1390
+ShrineSmallAir,9145,9153,-1420,-1412
+StonePlantMound,9170,9175,-1382,-1377
+StonePlantMound,9201,9206,-1431,-1426
+DinosaurSkeleton,8942,8951,-1535,-1489
+StonePlantMound,8918,8923,-1514,-1509
+ShrineSmallFire,8878,8888,-1470,-1460

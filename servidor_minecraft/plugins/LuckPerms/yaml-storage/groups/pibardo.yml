@@ -1,0 +1,8 @@
+name: pibardo
+permissions:
+- essentials.back.ondeath
+- essentials.home
+- essentials.sethome
+- essentials.sethome.multiple
+- essentials.sethome.multiple.pibardo
+- essentials.tpa

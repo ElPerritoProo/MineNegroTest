@@ -1,0 +1,9 @@
+name: minita
+permissions:
+- essentials.back
+- essentials.back.ondeath
+- essentials.home
+- essentials.sethome
+- essentials.sethome.multiple
+- essentials.sethome.multiple.minita
+- essentials.tpa
